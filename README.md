@@ -8,6 +8,7 @@ Geographical Insights: Negara mana yang menjadi "sweet spot" untuk jenis coklat 
 
 📈 Evaluasi Model
 Elbow Method: Hasil evaluasi menunjukkan penurunan inertia mulai melandai di K=3 dan K=5. Dipilihnya K=5 sebgai jumlah kluster optimal karena memberikan granulasi data yang lebih baik untuk strategi bisnis.
+
 Silhouette Score:
 a. Silhouette Score (K=3): 0.41 (Struktur data paling optimal secara statistik).
 b. Silhouette Score (K=5): 0.36 (Struktur data yang dipilih untuk kebutuhan bisnis).
